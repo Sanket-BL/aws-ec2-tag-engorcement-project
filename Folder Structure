@@ -1,0 +1,9 @@
+
+aws-ec2-tag-enforcement-project
+│
+├── README.md
+├── policy.json
+├── screenshots
+│   ├── policy-created.png
+│   ├── launch-failed-without-tags.png
+│   └── launch-success-with-tags.png
